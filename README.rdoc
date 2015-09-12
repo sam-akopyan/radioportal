@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
+Radio amateur portal aimed at the development of amateur radio. Here you can find a lot of interesting things, from simple homemade antennas to complex engineering solutions. A selection of useful programs, made with many amateur sites. Here you will find the latest development of amateur radio software. All the self-construction. Introduction to radio for beginners. Basics of radio. Teach Radiotelegraph CW. Soldering techniques for beginners. Electronic kit. Legendary transceiver UW3DI and much more. As well as the publication of articles by radio amateurs.
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
